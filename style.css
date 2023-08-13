@@ -1,0 +1,33 @@
+body {
+    background-color: #F8F0E5;
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* font-size: larger; */
+}
+header {
+    text-align: center;
+    padding: 1px;
+    text-transform: capitalize;
+    background-color: #102C57;
+    color: #F8F0E5;
+}
+h3 {
+    background-color: #EA5455;
+    padding: 2px;
+}
+
+#f {
+    font-size: 20px;
+    margin: 10px;
+}
+#f::first-letter {
+    font-size: 30px;
+    color: #102C57;
+
+}
+.jogging, .berenang {
+    margin: 10px;
+}
+ul {
+    list-style: lower-greek;
+}
